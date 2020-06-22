@@ -1,0 +1,19 @@
+{
+  "name": "flappy-bird-game",
+  "version": "1.0.0",
+  "description": "A clone of flappy bird game which I developed while following a game development course of Harvard University",
+  "main": "main.lua",
+  "scripts": {
+    "test": "love ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivantha96/flappy-bird-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivantha96/flappy-bird-game/issues"
+  },
+  "homepage": "https://github.com/sivantha96/flappy-bird-game#readme"
+}
